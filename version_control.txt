@@ -1,0 +1,9 @@
+
+
+Version control system is like a software tool, we have lot of version control systems like Git.
+By this we can easily do the work without any interruption to other member.
+In one project we have 1 team, each member have been allocated to different task, 
+we have front-end developer, back-end developer, testing...etc. so by using version control each member can do their job or task and testing the code in his/her local system, if it works then they can commit and push to the git(version control system) without affect to others job.
+It's like a tree, each branch can develop their own branch without affecting to other branch.
+In some projects other member may work on new-feature.
+and the final code will verify with some assigned managers or team leads, if they approve only the code will merge in final project.
